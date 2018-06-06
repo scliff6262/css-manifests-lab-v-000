@@ -1,5 +1,5 @@
 /*
-*= require blogs
+*= require vendor/stylesheets/bootstrap-addon
 *= require pages
-*= require posts
+*= require lib/hidden_styles
 */
